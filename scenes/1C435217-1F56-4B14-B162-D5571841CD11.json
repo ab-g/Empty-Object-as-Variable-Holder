@@ -49,6 +49,7 @@
         "D8E1D3DE-2BB8-4152-AD73-D8CFD5761AB5",
         "A0DAFCA4-98B7-44FF-B61E-24DDEDB47BB9",
         "69B3343E-0E21-4C30-8FA4-BC470CC0CAF2",
+        "A6AE1CBC-BF99-4069-92E5-66A095D85751",
         "9EDD733A-4A59-4175-8D83-E9E99B25D160",
         "55BE9403-646F-4685-8BA9-CE06CA5F4256",
         "8D8798F9-51A4-46A1-BC8B-730C7318DA5A"
@@ -233,9 +234,50 @@
       "object3D": {
         "@class": "BaseObject3D",
         "id": {
-          "uuid": "9EDD733A-4A59-4175-8D83-E9E99B25D160"
+          "uuid": "A6AE1CBC-BF99-4069-92E5-66A095D85751"
         },
         "name": "Empty Object",
+        "enabled": true,
+        "visible": true,
+        "hitVisible": true,
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "localTransforms": {
+            "values": [
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        },
+        "metadata": {
+          "importedIdentifier": "",
+          "importedName": "",
+          "isBone": false
+        }
+      }
+    },
+    {
+      "@class": "BaseNode",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "id": {
+          "uuid": "9EDD733A-4A59-4175-8D83-E9E99B25D160"
+        },
+        "name": "Number and Boolean Variables",
         "enabled": true,
         "visible": true,
         "hitVisible": true,
