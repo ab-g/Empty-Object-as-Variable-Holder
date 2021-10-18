@@ -7,6 +7,69 @@
     {
       "@class": "VariantVariable",
       "id": {
+        "uuid": "09B6F6BC-DFB8-4C41-8876-1EBB2BC1D387"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_1",
+      "type": "float",
+      "value": 1
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "36467C4A-33EA-4C06-81D1-D8704AF74255"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_2",
+      "type": "float",
+      "value": 2
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "BF24C848-7CBB-4788-9759-A9AE612E80F3"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_3",
+      "type": "float",
+      "value": 3
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "BCC31F99-B333-4693-9DBD-631E45FB4750"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_4",
+      "type": "float",
+      "value": 4
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "D960069C-E4AA-4E4C-A2CB-35E24D4EE3A4"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_5",
+      "type": "float",
+      "value": 5
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "6F3FFED8-9D10-4FD4-A6A9-04C3B0AA1CEE"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_6",
+      "type": "float",
+      "value": 6
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "1BBD7922-1E79-4774-9087-A74090D09944"
+      },
+      "name": "object__55BE9403_646F_4685_8BA9_CE06CA5F4256__Var_7",
+      "type": "float",
+      "value": 7
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
         "uuid": "B5D61E5C-31B6-4F96-94D0-871CD434819A"
       },
       "name": "object__9EDD733A_4A59_4175_8D83_E9E99B25D160__Var_Boolean",

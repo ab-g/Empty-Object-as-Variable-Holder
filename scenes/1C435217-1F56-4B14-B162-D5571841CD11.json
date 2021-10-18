@@ -49,7 +49,8 @@
         "D8E1D3DE-2BB8-4152-AD73-D8CFD5761AB5",
         "A0DAFCA4-98B7-44FF-B61E-24DDEDB47BB9",
         "69B3343E-0E21-4C30-8FA4-BC470CC0CAF2",
-        "9EDD733A-4A59-4175-8D83-E9E99B25D160"
+        "9EDD733A-4A59-4175-8D83-E9E99B25D160",
+        "55BE9403-646F-4685-8BA9-CE06CA5F4256"
       ]
     },
     {
@@ -234,6 +235,47 @@
           "uuid": "9EDD733A-4A59-4175-8D83-E9E99B25D160"
         },
         "name": "Empty Object",
+        "enabled": true,
+        "visible": true,
+        "hitVisible": true,
+        "transform": {
+          "@class": "BaseComponentTransformable",
+          "localTransforms": {
+            "values": [
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1
+            ]
+          }
+        },
+        "metadata": {
+          "importedIdentifier": "",
+          "importedName": "",
+          "isBone": false
+        }
+      }
+    },
+    {
+      "@class": "BaseNode",
+      "object3D": {
+        "@class": "BaseObject3D",
+        "id": {
+          "uuid": "55BE9403-646F-4685-8BA9-CE06CA5F4256"
+        },
+        "name": "Number Variables",
         "enabled": true,
         "visible": true,
         "hitVisible": true,
