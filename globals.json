@@ -7,6 +7,15 @@
     {
       "@class": "VariantVariable",
       "id": {
+        "uuid": "B5D61E5C-31B6-4F96-94D0-871CD434819A"
+      },
+      "name": "object__9EDD733A_4A59_4175_8D83_E9E99B25D160__Var_Boolean",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
         "uuid": "2853F980-7647-4C14-8AF4-DB4186DB4628"
       },
       "name": "object__9EDD733A_4A59_4175_8D83_E9E99B25D160__Var_Number",
