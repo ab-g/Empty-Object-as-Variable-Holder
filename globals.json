@@ -70,6 +70,69 @@
     {
       "@class": "VariantVariable",
       "id": {
+        "uuid": "19A199A7-AB2C-4722-8B53-5C9FACDC5875"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_1",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "F96B0769-3B2E-4D9E-85AE-85D1C7F0830B"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_2",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "7A5FC3A1-7FE7-49B1-9C94-7DFA515B1E27"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_3",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "BC9CE19E-3476-4DEE-A1C5-AE55158FF443"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_4",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "D837527F-FC75-464B-AF17-B75F23F00D58"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_5",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "9718D95E-163C-481B-9268-4E0A8ABB297E"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_6",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "9A771468-7C6C-40BB-A675-3E5665982CDA"
+      },
+      "name": "object__8D8798F9_51A4_46A1_BC8B_730C7318DA5A__Var_7",
+      "type": "bool",
+      "value": false
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
         "uuid": "B5D61E5C-31B6-4F96-94D0-871CD434819A"
       },
       "name": "object__9EDD733A_4A59_4175_8D83_E9E99B25D160__Var_Boolean",
